@@ -1,4 +1,5 @@
-Testing on my profile picture -
+Testing on my profile picture:
+
 [screen-capture (1).webm](https://github.com/motorcykle/openaivisiontest/assets/51007395/b44edd23-550c-4af1-b1c9-2e4ba536172f)
 
 [screen-capture.webm](https://github.com/motorcykle/openaivisiontest/assets/51007395/179e8bfc-6bdb-419f-8648-31c3c05683aa)
