@@ -1,6 +1,6 @@
 // import { Configuration, OpenAIApi } from "openai";
 // const configuration = new Configuration({
-//     organization: "org-KLBa9GyUcmGMbmmOCYBdW9LK",
+//     organization: "org-1B9RT5L1LA2d6j44MFt5hiL3",
 //     apiKey: process.env.OPENAI_API_KEY,
 // });
 // const openai = new OpenAIApi(configuration);
@@ -9,7 +9,7 @@
 import { NextResponse } from "next/server"
 import OpenAI from "openai";
 
-const openai = new OpenAI({ apiKey: "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" });
+const openai = new OpenAI({ apiKey: process.env.OPEN_AI });
 
 export async function POST(request: Request) {
 
